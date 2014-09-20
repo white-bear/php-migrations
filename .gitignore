@@ -1,0 +1,21 @@
+# tmp files
+*~
+*.swp
+
+# Eclipse
+.classpath
+.buildpath
+.project
+.settings/
+
+# PhpStorm
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+.Trashes
+
+# real sync files
+.realsync
